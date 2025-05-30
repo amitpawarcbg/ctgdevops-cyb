@@ -1,3 +1,1 @@
-# ctgdevops-cyb
-
-Initial commit with README.
+this is mcp demo session
